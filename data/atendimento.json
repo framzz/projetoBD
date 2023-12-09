@@ -1,0 +1,482 @@
+[
+    {
+      "id_atendimento": 1,
+      "id_func": 2,
+      "id_paciente": 30,
+      "valor": 100.00,
+      "data": "2023-04-01",
+      "tipo_atendimento": "Consulta"
+    },
+    {
+      "id_atendimento": 2,
+      "id_func": 1,
+      "id_paciente": 31,
+      "valor": 150.00,
+      "data": "2023-04-02",
+      "tipo_atendimento": "Exame"
+    },
+    {
+      "id_atendimento": 3,
+      "id_func": 4,
+      "id_paciente": 32,
+      "valor": 200.00,
+      "data": "2023-04-04",
+      "tipo_atendimento": "Consulta de Rotina"
+    },
+    {
+      "id_atendimento": 4,
+      "id_func": 3,
+      "id_paciente": 33,
+      "valor": 250.00,
+      "data": "2023-04-04",
+      "tipo_atendimento": "Vacinação"
+    },
+    {
+      "id_atendimento": 5,
+      "id_func": 6,
+      "id_paciente": 34,
+      "valor": 300.00,
+      "data": "2023-04-05",
+      "tipo_atendimento": "Cirurgia"
+    },
+    {
+      "id_atendimento": 6,
+      "id_func": 5,
+      "id_paciente": 35,
+      "valor": 350.00,
+      "data": "2023-04-06",
+      "tipo_atendimento": "Emergência"
+    },
+    {
+      "id_atendimento": 7,
+      "id_func": 8,
+      "id_paciente": 36,
+      "valor": 400.00,
+      "data": "2023-04-07",
+      "tipo_atendimento": "Check-Up"
+    },
+    {
+      "id_atendimento": 8,
+      "id_func": 7,
+      "id_paciente": 37,
+      "valor": 450.00,
+      "data": "2023-04-07",
+      "tipo_atendimento": "Consulta"
+    },
+    {
+      "id_atendimento": 9,
+      "id_func": 10,
+      "id_paciente": 38,
+      "valor": 500.00,
+      "data": "2023-04-07",
+      "tipo_atendimento": "Exame"
+    },
+    {
+      "id_atendimento": 10,
+      "id_func": 9,
+      "id_paciente": 39,
+      "valor": 550.00,
+      "data": "2023-04-10",
+      "tipo_atendimento": "Consulta de Rotina"
+    },
+    {
+      "id_atendimento": 11,
+      "id_func": 12,
+      "id_paciente": 40,
+      "valor": 230.00,
+      "data": "2023-04-11",
+      "tipo_atendimento": "Vacinação"
+    },
+    {
+      "id_atendimento": 12,
+      "id_func": 11,
+      "id_paciente": 41,
+      "valor": 650.00,
+      "data": "2023-04-12",
+      "tipo_atendimento": "Cirurgia"
+    },
+    {
+      "id_atendimento": 13,
+      "id_func": 14,
+      "id_paciente": 42,
+      "valor": 700.00,
+      "data": "2023-04-13",
+      "tipo_atendimento": "Emergência"
+    },
+    {
+      "id_atendimento": 14,
+      "id_func": 13,
+      "id_paciente": 43,
+      "valor": 220.00,
+      "data": "2023-04-14",
+      "tipo_atendimento": "Check-Up"
+    },
+    {
+      "id_atendimento": 15,
+      "id_func": 16,
+      "id_paciente": 44,
+      "valor": 165.00,
+      "data": "2023-04-15",
+      "tipo_atendimento": "Consulta"
+    },
+    {
+      "id_atendimento": 16,
+      "id_func": 15,
+      "id_paciente": 45,
+      "valor": 460.00,
+      "data": "2023-04-16",
+      "tipo_atendimento": "Exame"
+    },
+    {
+      "id_atendimento": 17,
+      "id_func": 18,
+      "id_paciente": 46,
+      "valor": 150.00,
+      "data": "2023-04-16",
+      "tipo_atendimento": "Consulta de Rotina"
+    },
+    {
+      "id_atendimento": 18,
+      "id_func": 17,
+      "id_paciente": 47,
+      "valor": 200.00,
+      "data": "2023-04-17",
+      "tipo_atendimento": "Vacinação"
+    },
+    {
+      "id_atendimento": 19,
+      "id_func": 20,
+      "id_paciente": 48,
+      "valor": 1500.00,
+      "data": "2023-04-19",
+      "tipo_atendimento": "Cirurgia"
+    },
+    {
+      "id_atendimento": 20,
+      "id_func": 19,
+      "id_paciente": 49,
+      "valor": 1050.00,
+      "data": "2023-04-19",
+      "tipo_atendimento": "Emergência"
+    },
+    {
+        "id_atendimento": 21,
+        "id_func": 23,
+        "id_paciente": 180,
+        "valor": 100.00,
+        "data": "2023-04-21",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 22,
+        "id_func": 14,
+        "id_paciente": 142,
+        "valor": 150.50,
+        "data": "2023-04-22",
+        "tipo_atendimento": "Exame"
+    },
+    {
+        "id_atendimento": 23,
+        "id_func": 3,
+        "id_paciente": 123,
+        "valor": 2000.99,
+        "data": "2023-04-23",
+        "tipo_atendimento": "Cirurgia"
+    },
+    {
+        "id_atendimento": 24,
+        "id_func": 9,
+        "id_paciente": 154,
+        "valor": 250.33,
+        "data": "2023-04-24",
+        "tipo_atendimento": "Vacinação"
+    },
+    {
+        "id_atendimento": 25,
+        "id_func": 5,
+        "id_paciente": 159,
+        "valor": 75.75,
+        "data": "2023-04-25",
+        "tipo_atendimento": "Cirurgia"
+    },
+    {
+        "id_atendimento": 26,
+        "id_func": 10,
+        "id_paciente": 136,
+        "valor": 350.45,
+        "data": "2023-04-26",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 27,
+        "id_func": 21,
+        "id_paciente": 113,
+        "valor": 425.50,
+        "data": "2023-04-27",
+        "tipo_atendimento": "Exame"
+    },
+    {
+        "id_atendimento": 28,
+        "id_func": 2,
+        "id_paciente": 198,
+        "valor": 500.00,
+        "data": "2023-04-28",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 29,
+        "id_func": 19,
+        "id_paciente": 101,
+        "valor": 550.55,
+        "data": "2023-04-30",
+        "tipo_atendimento": "Emergência"
+    },
+    {
+        "id_atendimento": 30,
+        "id_func": 22,
+        "id_paciente": 165,
+        "valor": 600.60,
+        "data": "2023-04-30",
+        "tipo_atendimento": "Check-Up"
+    },
+    {
+        "id_atendimento": 31,
+        "id_func": 12,
+        "id_paciente": 176,
+        "valor": 130.13,
+        "data": "2023-05-01",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 32,
+        "id_func": 8,
+        "id_paciente": 147,
+        "valor": 231.32,
+        "data": "2023-05-02",
+        "tipo_atendimento": "Exame"
+    },
+    {
+        "id_atendimento": 33,
+        "id_func": 23,
+        "id_paciente": 168,
+        "valor": 2333.33,
+        "data": "2023-05-03",
+        "tipo_atendimento": "Cirurgia"
+    },
+    {
+        "id_atendimento": 34,
+        "id_func": 11,
+        "id_paciente": 123,
+        "valor": 434.34,
+        "data": "2023-05-04",
+        "tipo_atendimento": "Vacinação"
+    },
+    {
+        "id_atendimento": 35,
+        "id_func": 6,
+        "id_paciente": 190,
+        "valor": 1400.35,
+        "data": "2023-05-05",
+        "tipo_atendimento": "Cirurgia"
+    },
+    {
+        "id_atendimento": 36,
+        "id_func": 17,
+        "id_paciente": 154,
+        "valor": 646.46,
+        "data": "2023-05-06",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 37,
+        "id_func": 4,
+        "id_paciente": 198,
+        "valor": 757.57,
+        "data": "2023-05-07",
+        "tipo_atendimento": "Exame"
+    },
+    {
+        "id_atendimento": 38,
+        "id_func": 20,
+        "id_paciente": 122,
+        "valor": 818.18,
+        "data": "2023-05-08",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 39,
+        "id_func": 13,
+        "id_paciente": 141,
+        "valor": 919.19,
+        "data": "2023-05-10",
+        "tipo_atendimento": "Emergência"
+    },
+    {
+        "id_atendimento": 40,
+        "id_func": 18,
+        "id_paciente": 170,
+        "valor": 1020.20,
+        "data": "2023-05-10",
+        "tipo_atendimento": "Check-Up"
+    },
+    {
+        "id_atendimento": 41,
+        "id_func": 22,
+        "id_paciente": 199,
+        "valor": 198.50,
+        "data": "2023-05-11",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 42,
+        "id_func": 3,
+        "id_paciente": 157,
+        "valor": 479.20,
+        "data": "2023-05-11",
+        "tipo_atendimento": "Exame"
+    },
+    {
+        "id_atendimento": 43,
+        "id_func": 5,
+        "id_paciente": 188,
+        "valor": 120.75,
+        "data": "2023-05-13",
+        "tipo_atendimento": "Consulta de Rotina"
+    },
+    {
+        "id_atendimento": 44,
+        "id_func": 19,
+        "id_paciente": 120,
+        "valor": 121.10,
+        "data": "2023-05-14",
+        "tipo_atendimento": "Vacinação"
+    },
+    {
+        "id_atendimento": 45,
+        "id_func": 9,
+        "id_paciente": 185,
+        "valor": 1340.90,
+        "data": "2023-05-15",
+        "tipo_atendimento": "Cirurgia"
+    },
+    {
+        "id_atendimento": 46,
+        "id_func": 1,
+        "id_paciente": 124,
+        "valor": 670.60,
+        "data": "2023-05-16",
+        "tipo_atendimento": "Emergência"
+    },
+    {
+        "id_atendimento": 47,
+        "id_func": 8,
+        "id_paciente": 172,
+        "valor": 156.00,
+        "data": "2023-05-16",
+        "tipo_atendimento": "Check-Up"
+    },
+    {
+        "id_atendimento": 48,
+        "id_func": 16,
+        "id_paciente": 143,
+        "valor": 117.45,
+        "data": "2023-05-16",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 49,
+        "id_func": 23,
+        "id_paciente": 169,
+        "valor": 198.25,
+        "data": "2023-05-19",
+        "tipo_atendimento": "Exame"
+    },
+    {
+        "id_atendimento": 50,
+        "id_func": 12,
+        "id_paciente": 194,
+        "valor": 183.30,
+        "data": "2023-05-21",
+        "tipo_atendimento": "Consulta de Rotina"
+    },
+    {
+        "id_atendimento": 51,
+        "id_func": 7,
+        "id_paciente": 180,
+        "valor": 147.15,
+        "data": "2023-05-21",
+        "tipo_atendimento": "Vacinação"
+    },
+    {
+        "id_atendimento": 52,
+        "id_func": 21,
+        "id_paciente": 110,
+        "valor": 1660.75,
+        "data": "2023-05-22",
+        "tipo_atendimento": "Cirurgia"
+    },
+    {
+        "id_atendimento": 53,
+        "id_func": 4,
+        "id_paciente": 95,
+        "valor": 134.85,
+        "data": "2023-05-23",
+        "tipo_atendimento": "Emergência"
+    },
+    {
+        "id_atendimento": 54,
+        "id_func": 20,
+        "id_paciente": 164,
+        "valor": 154.90,
+        "data": "2023-05-24",
+        "tipo_atendimento": "Check-Up"
+    },
+    {
+        "id_atendimento": 55,
+        "id_func": 11,
+        "id_paciente": 174,
+        "valor": 192.65,
+        "data": "2023-05-25",
+        "tipo_atendimento": "Consulta"
+    },
+    {
+        "id_atendimento": 56,
+        "id_func": 6,
+        "id_paciente": 200,
+        "valor": 330.20,
+        "data": "2023-05-26",
+        "tipo_atendimento": "Exame"
+    },
+    {
+        "id_atendimento": 57,
+        "id_func": 18,
+        "id_paciente": 132,
+        "valor": 189.99,
+        "data": "2023-05-27",
+        "tipo_atendimento": "Consulta de Rotina"
+    },
+    {
+        "id_atendimento": 58,
+        "id_func": 14,
+        "id_paciente": 199,
+        "valor": 100.10,
+        "data": "2023-05-28",
+        "tipo_atendimento": "Vacinação"
+    },
+    {
+        "id_atendimento": 59,
+        "id_func": 2,
+        "id_paciente": 138,
+        "valor": 1240.45,
+        "data": "2023-05-29",
+        "tipo_atendimento": "Cirurgia"
+    },
+    {
+        "id_atendimento": 60,
+        "id_func": 22,
+        "id_paciente": 160,
+        "valor": 198.80,
+        "data": "2023-05-30",
+        "tipo_atendimento": "Emergência"
+    }
+  ]

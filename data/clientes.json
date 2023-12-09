@@ -1,0 +1,702 @@
+[
+    {
+        "id_cliente": 1,
+        "nome": "João Silva",
+        "endereco": "Rua A, 123",
+        "telefone": "111111111",
+        "email": "joao@email.com"
+    },
+    {
+        "id_cliente": 2,
+        "nome": "Maria Santos",
+        "endereco": "Avenida B, 456",
+        "telefone": "222222222",
+        "email": "maria@email.com"
+    },
+    {
+        "id_cliente": 3,
+        "nome": "Carlos Oliveira",
+        "endereco": "Rua C, 789",
+        "telefone": "333333333",
+        "email": "carlos@email.com"
+    },
+    {
+        "id_cliente": 4,
+        "nome": "Ana Souza",
+        "endereco": "Avenida D, 1011",
+        "telefone": "444444444",
+        "email": "ana@email.com"
+    },
+    {
+        "id_cliente": 5,
+        "nome": "Pedro Ferreira",
+        "endereco": "Rua E, 1213",
+        "telefone": "555555555",
+        "email": "pedro@email.com"
+    },
+    {
+        "id_cliente": 6,
+        "nome": "Julia Costa",
+        "endereco": "Avenida F, 1415",
+        "telefone": "666666666",
+        "email": "julia@email.com"
+    },
+    {
+        "id_cliente": 7,
+        "nome": "Fernando Martins",
+        "endereco": "Rua G, 1617",
+        "telefone": "777777777",
+        "email": "fernando@email.com"
+    },
+    {
+        "id_cliente": 8,
+        "nome": "Roberta Santos",
+        "endereco": "Avenida H, 1819",
+        "telefone": "888888888",
+        "email": "roberta@email.com"
+    },
+    {
+        "id_cliente": 9,
+        "nome": "Lucas Rodrigues",
+        "endereco": "Rua I, 2021",
+        "telefone": "999999999",
+        "email": "lucas@email.com"
+    },
+    {
+        "id_cliente": 10,
+        "nome": "Vitoria Lima",
+        "endereco": "Avenida J, 2223",
+        "telefone": "1010101010",
+        "email": "vitoria@email.com"
+    },
+    {
+        "id_cliente": 11,
+        "nome": "Gustavo Pereira",
+        "endereco": "Rua K, 2425",
+        "telefone": "1111111111",
+        "email": "gustavo@email.com"
+    },
+    {
+        "id_cliente": 12,
+        "nome": "Mariana Fernandes",
+        "endereco": "Avenida L, 2627",
+        "telefone": "1212121212",
+        "email": "mariana@email.com"
+    },
+    {
+        "id_cliente": 13,
+        "nome": "Ricardo Almeida",
+        "endereco": "Rua M, 2829",
+        "telefone": "1313131313",
+        "email": "ricardo@email.com"
+    },
+    {
+        "id_cliente": 14,
+        "nome": "Isabela Castro",
+        "endereco": "Avenida N, 3031",
+        "telefone": "1414141414",
+        "email": "isabela@email.com"
+    },
+    {
+        "id_cliente": 15,
+        "nome": "Henrique Gomes",
+        "endereco": "Rua O, 3233",
+        "telefone": "1515151515",
+        "email": "henrique@email.com"
+    },
+    {
+        "id_cliente": 16,
+        "nome": "Amanda Carvalho",
+        "endereco": "Avenida P, 3435",
+        "telefone": "1616161616",
+        "email": "amanda@email.com"
+    },
+    {
+        "id_cliente": 17,
+        "nome": "Felipe Nunes",
+        "endereco": "Rua Q, 3637",
+        "telefone": "1717171717",
+        "email": "felipe@email.com"
+    },
+    {
+        "id_cliente": 18,
+        "nome": "Laura Oliveira",
+        "endereco": "Avenida R, 3839",
+        "telefone": "1818181818",
+        "email": "laura@email.com"
+    },
+    {
+        "id_cliente": 19,
+        "nome": "Bruno Vieira",
+        "endereco": "Rua S, 4041",
+        "telefone": "1919191919",
+        "email": "bruno@email.com"
+    },
+    {
+        "id_cliente": 20,
+        "nome": "Carolina Mendes",
+        "endereco": "Avenida T, 4243",
+        "telefone": "2020202020",
+        "email": "carolina@email.com"
+    },
+    {
+        "id_cliente": 21,
+        "nome": "Diego Sousa",
+        "endereco": "Rua U, 4445",
+        "telefone": "2121212121",
+        "email": "diego@email.com"
+    },
+    {
+        "id_cliente": 22,
+        "nome": "Carla Fernandes",
+        "endereco": "Avenida V, 4647",
+        "telefone": "2222222222",
+        "email": "carla@email.com"
+    },
+    {
+        "id_cliente": 23,
+        "nome": "Renato Oliveira",
+        "endereco": "Rua W, 4849",
+        "telefone": "2323232323",
+        "email": "renato@email.com"
+    },
+    {
+        "id_cliente": 24,
+        "nome": "Vanessa Santos",
+        "endereco": "Avenida X, 5051",
+        "telefone": "2424242424",
+        "email": "vanessa@email.com"
+    },
+    {
+        "id_cliente": 25,
+        "nome": "Paulo Costa",
+        "endereco": "Rua Y, 5253",
+        "telefone": "2525252525",
+        "email": "paulo@email.com"
+    },
+    {
+        "id_cliente": 26,
+        "nome": "Luana Almeida",
+        "endereco": "Avenida Z, 5455",
+        "telefone": "2626262626",
+        "email": "luana@email.com"
+    },
+    {
+        "id_cliente": 27,
+        "nome": "Roberto Gomes",
+        "endereco": "Rua AA, 5657",
+        "telefone": "2727272727",
+        "email": "roberto@email.com"
+    },
+    {
+        "id_cliente": 28,
+        "nome": "Aline Pereira",
+        "endereco": "Avenida BB, 5859",
+        "telefone": "2828282828",
+        "email": "aline@email.com"
+    },
+    {
+        "id_cliente": 29,
+        "nome": "Thiago Fernandes",
+        "endereco": "Rua CC, 6061",
+        "telefone": "2929292929",
+        "email": "thiago@email.com"
+    },
+    {
+        "id_cliente": 30,
+        "nome": "Elisa Lima",
+        "endereco": "Avenida DD, 6263",
+        "telefone": "3030303030",
+        "email": "elisa@email.com"
+    },
+    {
+        "id_cliente": 31,
+        "nome": "Fernando Vieira",
+        "endereco": "Rua EE, 6465",
+        "telefone": "3131313131",
+        "email": "fernando.vieira@email.com"
+    },
+    {
+        "id_cliente": 32,
+        "nome": "Ana Carolina Mendes",
+        "endereco": "Avenida FF, 6667",
+        "telefone": "3232323232",
+        "email": "ana.carolina@email.com"
+    },
+    {
+        "id_cliente": 33,
+        "nome": "Marcio Oliveira",
+        "endereco": "Rua GG, 6869",
+        "telefone": "3333333333",
+        "email": "marcio@email.com"
+    },
+    {
+        "id_cliente": 34,
+        "nome": "Larissa Sousa",
+        "endereco": "Avenida HH, 7071",
+        "telefone": "3434343434",
+        "email": "larissa@email.com"
+    },
+    {
+        "id_cliente": 35,
+        "nome": "Eduardo Rodrigues",
+        "endereco": "Rua II, 7273",
+        "telefone": "3535353535",
+        "email": "eduardo@email.com"
+    },
+    {
+        "id_cliente": 36,
+        "nome": "Simone Alves",
+        "endereco": "Avenida JJ, 7475",
+        "telefone": "3636363636",
+        "email": "simone@email.com"
+    },
+    {
+        "id_cliente": 37,
+        "nome": "Marcelo Silva",
+        "endereco": "Rua KK, 7677",
+        "telefone": "3737373737",
+        "email": "marcelo.silva@email.com"
+    },
+    {
+        "id_cliente": 38,
+        "nome": "Daniela Nunes",
+        "endereco": "Avenida LL, 7881",
+        "telefone": "3838383838",
+        "email": "daniela@email.com"
+    },
+    {
+        "id_cliente": 39,
+        "nome": "Rafaela Oliveira",
+        "endereco": "Rua MM, 8083",
+        "telefone": "3939393939",
+        "email": "rafaela@email.com"
+    },
+    {
+        "id_cliente": 40,
+        "nome": "Robson Carvalho",
+        "endereco": "Avenida NN, 8285",
+        "telefone": "4040404040",
+        "email": "robson.carvalho@email.com"
+    },
+    {
+        "id_cliente": 41,
+        "nome": "Tatiana Costa",
+        "endereco": "Rua OO, 8487",
+        "telefone": "4141414141",
+        "email": "tatiana@email.com"
+    },
+    {
+        "id_cliente": 42,
+        "nome": "Hugo Fernandes",
+        "endereco": "Avenida PP, 8689",
+        "telefone": "4242424242",
+        "email": "hugo@email.com"
+    },
+    {
+        "id_cliente": 43,
+        "nome": "Alice Mendes",
+        "endereco": "Rua QQ, 8891",
+        "telefone": "4343434343",
+        "email": "alice@email.com"
+    },
+    {
+        "id_cliente": 44,
+        "nome": "Ricardo Almeida",
+        "endereco": "Avenida RR, 9093",
+        "telefone": "4444444444",
+        "email": "ricardo.almeida@email.com"
+    },
+    {
+        "id_cliente": 45,
+        "nome": "Clara Silva",
+        "endereco": "Rua SS, 9295",
+        "telefone": "4545454545",
+        "email": "clara@email.com"
+    },
+    {
+        "id_cliente": 46,
+        "nome": "Pedro Oliveira",
+        "endereco": "Avenida TT, 9497",
+        "telefone": "4646464646",
+        "email": "pedro.oliveira@email.com"
+    },
+    {
+        "id_cliente": 47,
+        "nome": "Luiza Rodrigues",
+        "endereco": "Rua UU, 9699",
+        "telefone": "4747474747",
+        "email": "luiza@email.com"
+    },
+    {
+        "id_cliente": 48,
+        "nome": "Bruno Santos",
+        "endereco": "Avenida VV, 99101",
+        "telefone": "4848484848",
+        "email": "bruno.santos@email.com"
+    },
+    {
+        "id_cliente": 49,
+        "nome": "Mariana Lima",
+        "endereco": "Rua WW, 101103",
+        "telefone": "4949494949",
+        "email": "mariana.lima@email.com"
+    },
+    {
+        "id_cliente": 50,
+        "nome": "Felipe Carvalho",
+        "endereco": "Avenida XX, 103105",
+        "telefone": "5050505050",
+        "email": "felipe.carvalho@email.com"
+    },
+    {
+        "id_cliente": 51,
+        "nome": "Juliana Alves",
+        "endereco": "Rua YY, 105107",
+        "telefone": "5151515151",
+        "email": "juliana@email.com"
+    },
+    {
+        "id_cliente": 52,
+        "nome": "Rafaela Pereira",
+        "endereco": "Avenida ZZ, 107109",
+        "telefone": "5252525252",
+        "email": "rafaela.pereira@email.com"
+    },
+    {
+        "id_cliente": 53,
+        "nome": "Vinicius Fernandes",
+        "endereco": "Rua AAA, 109111",
+        "telefone": "5353535353",
+        "email": "vinicius@email.com"
+    },
+    {
+        "id_cliente": 54,
+        "nome": "Carolina Oliveira",
+        "endereco": "Avenida BBB, 111113",
+        "telefone": "5454545454",
+        "email": "carolina.oliveira@email.com"
+    },
+    {
+        "id_cliente": 55,
+        "nome": "Gabriel Silva",
+        "endereco": "Rua CCC, 113115",
+        "telefone": "5555555555",
+        "email": "gabriel.silva@email.com"
+    },
+    {
+        "id_cliente": 56,
+        "nome": "Amanda Sousa",
+        "endereco": "Avenida DDD, 115117",
+        "telefone": "5656565656",
+        "email": "amanda.sousa@email.com"
+    },
+    {
+        "id_cliente": 57,
+        "nome": "Eduardo Almeida",
+        "endereco": "Rua EEE, 117119",
+        "telefone": "5757575757",
+        "email": "eduardo.almeida@email.com"
+    },
+    {
+        "id_cliente": 58,
+        "nome": "Isabela Lima",
+        "endereco": "Avenida FFF, 119121",
+        "telefone": "5858585858",
+        "email": "isabela.lima.1@email.com"
+    },
+    {
+        "id_cliente": 59,
+        "nome": "Roberto Rodrigues",
+        "endereco": "Rua GGG, 121123",
+        "telefone": "5959595959",
+        "email": "roberto.rodrigues@email.com"
+    },
+    {
+        "id_cliente": 60,
+        "nome": "Tatiane Pereira",
+        "endereco": "Avenida HHH, 123125",
+        "telefone": "6060606060",
+        "email": "tatiane.pereira@email.com"
+    },
+    {
+        "id_cliente": 61,
+        "nome": "Felipe Oliveira",
+        "endereco": "Rua III, 125127",
+        "telefone": "6161616161",
+        "email": "felipe.oliveira@email.com"
+    },
+    {
+        "id_cliente": 62,
+        "nome": "Carolina Silva",
+        "endereco": "Avenida JJJ, 127129",
+        "telefone": "6262626262",
+        "email": "carolina.silva@email.com"
+    },
+    {
+        "id_cliente": 63,
+        "nome": "Rafaela Rodrigues",
+        "endereco": "Rua KKK, 129131",
+        "telefone": "6363636363",
+        "email": "rafaela.rodrigues.1@email.com"
+    },
+    {
+        "id_cliente": 64,
+        "nome": "Lucas Almeida",
+        "endereco": "Avenida LLL, 131133",
+        "telefone": "6464646464",
+        "email": "lucas.almeida@email.com"
+    },
+    {
+        "id_cliente": 65,
+        "nome": "Mariana Fernandes",
+        "endereco": "Rua MMM, 133135",
+        "telefone": "6565656565",
+        "email": "mariana.fernandes@email.com"
+    },
+    {
+        "id_cliente": 66,
+        "nome": "Gustavo Pereira",
+        "endereco": "Avenida NNN, 135137",
+        "telefone": "6666666666",
+        "email": "gustavo.pereira@email.com"
+    },
+    {
+        "id_cliente": 67,
+        "nome": "Isabela Lima",
+        "endereco": "Rua OOO, 137139",
+        "telefone": "6767676767",
+        "email": "isabela.lima@email.com"
+    },
+    {
+        "id_cliente": 68,
+        "nome": "Roberto Silva",
+        "endereco": "Avenida PPP, 139141",
+        "telefone": "6868686868",
+        "email": "roberto.silva@email.com"
+    },
+    {
+        "id_cliente": 69,
+        "nome": "Tatiana Oliveira",
+        "endereco": "Rua QQQ, 141143",
+        "telefone": "6969696969",
+        "email": "tatiana.oliveira@email.com"
+    },
+    {
+        "id_cliente": 70,
+        "nome": "Hugo Rodrigues",
+        "endereco": "Avenida RRR, 143145",
+        "telefone": "7070707070",
+        "email": "hugo.rodrigues@email.com"
+    },
+    {
+        "id_cliente": 71,
+        "nome": "Amanda Almeida",
+        "endereco": "Rua SSS, 145147",
+        "telefone": "7171717171",
+        "email": "amanda.almeida@email.com"
+    },
+    {
+        "id_cliente": 72,
+        "nome": "Felipe Lima",
+        "endereco": "Avenida TTT, 147149",
+        "telefone": "7272727272",
+        "email": "felipe.lima@email.com"
+    },
+    {
+        "id_cliente": 73,
+        "nome": "Juliana Oliveira",
+        "endereco": "Rua UUU, 149151",
+        "telefone": "7373737373",
+        "email": "juliana.oliveira@email.com"
+    },
+    {
+        "id_cliente": 74,
+        "nome": "Ricardo Santos",
+        "endereco": "Avenida VVV, 151153",
+        "telefone": "7474747474",
+        "email": "ricardo.santos@email.com"
+    },
+    {
+        "id_cliente": 75,
+        "nome": "Luana Fernandes",
+        "endereco": "Rua WWW, 153155",
+        "telefone": "7575757575",
+        "email": "luana.fernandes@email.com"
+    },
+    {
+        "id_cliente": 76,
+        "nome": "Gabriel Pereira",
+        "endereco": "Avenida XXX, 155157",
+        "telefone": "7676767676",
+        "email": "gabriel.pereira@email.com"
+    },
+    {
+        "id_cliente": 77,
+        "nome": "Aline Almeida",
+        "endereco": "Rua YYY, 157159",
+        "telefone": "7777777777",
+        "email": "aline.almeida@email.com"
+    },
+    {
+        "id_cliente": 78,
+        "nome": "Rafael Lima",
+        "endereco": "Avenida ZZZ, 159161",
+        "telefone": "7878787878",
+        "email": "rafael.lima@email.com"
+    },
+    {
+        "id_cliente": 79,
+        "nome": "Larissa Rodrigues",
+        "endereco": "Rua AAAA, 161163",
+        "telefone": "7979797979",
+        "email": "larissa.rodrigues@email.com"
+    },
+    {
+        "id_cliente": 80,
+        "nome": "Eduardo Oliveira",
+        "endereco": "Avenida BBBB, 163165",
+        "telefone": "8080808080",
+        "email": "eduardo.oliveira@email.com"
+    },
+    {
+        "id_cliente": 81,
+        "nome": "Carla Fernandes",
+        "endereco": "Rua CCC, 165167",
+        "telefone": "8181818181",
+        "email": "carla.fernandes@email.com"
+    },
+    {
+        "id_cliente": 82,
+        "nome": "Ricardo Lima",
+        "endereco": "Avenida DDD, 167169",
+        "telefone": "8282828282",
+        "email": "ricardo.lima@email.com"
+    },
+    {
+        "id_cliente": 83,
+        "nome": "Isabela Rodrigues",
+        "endereco": "Rua EEE, 169171",
+        "telefone": "8383838383",
+        "email": "isabela.rodrigues@email.com"
+    },
+    {
+        "id_cliente": 84,
+        "nome": "Felipe Santos",
+        "endereco": "Avenida FFF, 171173",
+        "telefone": "8484848484",
+        "email": "felipe.santos@email.com"
+    },
+    {
+        "id_cliente": 85,
+        "nome": "Mariana Oliveira",
+        "endereco": "Rua GGG, 173175",
+        "telefone": "8585858585",
+        "email": "mariana.oliveira@email.com"
+    },
+    {
+        "id_cliente": 86,
+        "nome": "Gustavo Silva",
+        "endereco": "Avenida HHH, 175177",
+        "telefone": "8686868686",
+        "email": "gustavo.silva@email.com"
+    },
+    {
+        "id_cliente": 87,
+        "nome": "Tatiana Almeida",
+        "endereco": "Rua III, 177179",
+        "telefone": "8787878787",
+        "email": "tatiana.almeida@email.com"
+    },
+    {
+        "id_cliente": 88,
+        "nome": "Lucas Fernandes",
+        "endereco": "Avenida JJJ, 179181",
+        "telefone": "8888888888",
+        "email": "lucas.fernandes@email.com"
+    },
+    {
+        "id_cliente": 89,
+        "nome": "Amanda Lima",
+        "endereco": "Rua KKK, 181183",
+        "telefone": "8989898989",
+        "email": "amanda.lima@email.com"
+    },
+    {
+        "id_cliente": 90,
+        "nome": "Rafaela Rodrigues",
+        "endereco": "Avenida LLL, 183185",
+        "telefone": "9090909090",
+        "email": "rafaela.rodrigues@email.com"
+    },
+    {
+        "id_cliente": 91,
+        "nome": "Juliano Oliveira",
+        "endereco": "Rua MMM, 185187",
+        "telefone": "9191919191",
+        "email": "juliano.oliveira@email.com"
+    },
+    {
+        "id_cliente": 92,
+        "nome": "Carolina Santos",
+        "endereco": "Avenida NNN, 187189",
+        "telefone": "9292929292",
+        "email": "carolina.santos@email.com"
+    },
+    {
+        "id_cliente": 93,
+        "nome": "Roberto Lima",
+        "endereco": "Rua OOO, 189191",
+        "telefone": "9393939393",
+        "email": "roberto.lima@email.com"
+    },
+    {
+        "id_cliente": 94,
+        "nome": "Vanessa Fernandes",
+        "endereco": "Avenida PPP, 191193",
+        "telefone": "9494949494",
+        "email": "vanessa.fernandes@email.com"
+    },
+    {
+        "id_cliente": 95,
+        "nome": "Paulo Silva",
+        "endereco": "Rua QQQ, 193195",
+        "telefone": "9595959595",
+        "email": "paulo.silva@email.com"
+    },
+    {
+        "id_cliente": 96,
+        "nome": "Luiza Rodrigues",
+        "endereco": "Avenida RRR, 195197",
+        "telefone": "9696969696",
+        "email": "luiza.rodrigues@email.com"
+    },
+    {
+        "id_cliente": 97,
+        "nome": "Bruno Almeida",
+        "endereco": "Rua SSS, 197199",
+        "telefone": "9797979797",
+        "email": "bruno.almeida@email.com"
+    },
+    {
+        "id_cliente": 98,
+        "nome": "Aline Fernandes",
+        "endereco": "Avenida TTT, 199201",
+        "telefone": "9898989898",
+        "email": "aline.fernandes@email.com"
+    },
+    {
+        "id_cliente": 99,
+        "nome": "Renato Lima",
+        "endereco": "Rua UUU, 201203",
+        "telefone": "9999999999",
+        "email": "renato.lima@email.com"
+    },
+    {
+        "id_cliente": 100,
+        "nome": "Marina Silva",
+        "endereco": "Avenida VVV, 203205",
+        "telefone": "1010101000",
+        "email": "marina.silva@email.com"
+    }
+]
