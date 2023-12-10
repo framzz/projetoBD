@@ -16,7 +16,6 @@ Nesse módulo, criaremos uma conexão com um banco de dados PostgreSQL, com dado
 ├── requirements.txt
 ```
 
-
 ## Requirements
 Os códigos foram desenvolvidos utilizando as seguintes configurações:
 

@@ -10,14 +10,14 @@ port='5432'
 
 path = 'data/'
 
-
-def create_tables_psql(dbname: str = dbname,
+# função para criar tabela
+def create_table_psql(dbname: str = dbname,
                       user: str = user,
                       password: str = password,
                       host: str = host,
-                      port: str = port):
+                      port: str = port,
+                      query: str = None):
     
-
     # conexão com o banco de dados PostgreSQL
     try:
         conn = psycopg2.connect(
@@ -30,54 +30,9 @@ def create_tables_psql(dbname: str = dbname,
     except Exception as e:
         raise print(f'Not able to make connection with PostgreSQL. Error {e}')
 
-
-    # Criação da tabela FUNCIONARIO no banco de dados (se não existir)
+    # Criação da tabela no banco de dados
     with conn.cursor() as cur:
-        cur.execute('''
-        CREATE TABLE IF NOT EXISTS funcionarios (
-            id_func INT PRIMARY KEY,
-            nome VARCHAR(100) NOT NULL,
-            especialidade VARCHAR(100) NOT NULL,
-            telefone VARCHAR(20) UNIQUE NOT NULL,
-            status VARCHAR(20) CHECK (status IN ('Ativo', 'Inativo'))         
-        );
-        ''')
-
-    # Criação da tabela CLIENTE no banco de dados (se não existir)
-    with conn.cursor() as cur:
-        cur.execute('''CREATE TABLE IF NOT EXISTS clientes (
-            id_cliente INT PRIMARY KEY,
-            nome VARCHAR(100) NOT NULL,
-            endereco VARCHAR(200) NOT NULL,
-            telefone VARCHAR(20) UNIQUE NOT NULL,
-            email VARCHAR(100) UNIQUE
-        );''')
-
-    # Criação da tabela PACIENTE no banco de dados (se não existir)
-    with conn.cursor() as cur:
-        cur.execute('''CREATE TABLE IF NOT EXISTS pacientes (
-            id_paciente INT PRIMARY KEY,
-            nome VARCHAR(100) NOT NULL,
-            especie VARCHAR(50) NOT NULL,
-            raca VARCHAR(50),
-            peso DECIMAL(5,2) CHECK (peso > 0),
-            id_cliente INT NOT NULL,
-            FOREIGN KEY (id_cliente) REFERENCES clientes(id_cliente)
-        );''')
-
-    # Criação da tabela ATENDIMENTO no banco de dados (se não existir)
-    with conn.cursor() as cur:
-        cur.execute('''CREATE TABLE IF NOT EXISTS atendimento (
-            id_atendimento INT PRIMARY KEY,
-            id_func INT NOT NULL,
-            id_paciente INT NOT NULL,
-            valor DECIMAL(7,2),
-            data DATE,
-            tipo_atendimento VARCHAR(100) NOT NULL,
-            FOREIGN KEY (id_func) REFERENCES funcionarios(id_func),
-            FOREIGN KEY (id_paciente) REFERENCES pacientes(id_paciente)
-        );''')
-
+        cur.execute(query)
 
     conn.commit()
     conn.close()
@@ -186,7 +141,7 @@ def load_to_postgres(dbname: str = dbname,
                 row['id_paciente'],
                 row['nome'],
                 row['especie'],
-                row.get('raca'),  # Pode ser nulo, então usamos row.get()
+                row.get('raca'),
                 row['peso'],
                 row['id_cliente']
             ))
@@ -219,8 +174,8 @@ def load_to_postgres(dbname: str = dbname,
                     row['id_atendimento'],
                     row['id_func'],
                     row['id_paciente'],
-                    row.get('valor'),  # Pode ser nulo, então usamos row.get()
-                    row.get('data'),   # Pode ser nulo, então usamos row.get()
+                    row.get('valor'),
+                    row.get('data'),   
                     row['tipo_atendimento']
                 ))
                     

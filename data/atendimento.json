@@ -478,5 +478,13 @@
         "valor": 198.80,
         "data": "2023-05-30",
         "tipo_atendimento": "Emergência"
-    }
+    },
+    {
+      "id_atendimento": 61,
+      "id_func": 1,
+      "id_paciente": 189,
+      "valor": 240.90,
+      "data": "2023-05-30",
+      "tipo_atendimento": "Vacinação"
+  }
   ]
